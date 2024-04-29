@@ -9,7 +9,7 @@ function App() {
         <h1>Drag and Drop Cards</h1>
         <Contianer>
             <Cards id="card1" title="Card 1" description="Description of Card 1" draggable={true} />
-            <Cards id="card2" title="Card 2" description="Description of Card 2" draggable={true} />
+            <Cards id="card2" title="Card 3" description="Description of Card 2" draggable={true} />
             <Cards id="card3" title="Card 3" description="Description of Card 3" draggable={true} />
         </Contianer>
         <Contianer>
