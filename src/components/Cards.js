@@ -60,7 +60,7 @@ const Card = ({ id, title, description, draggable }) => {
               display: "flex",
             }}
           >
-            Lorem ipsum set amet da pitn.{" "}
+            Lorem ipsum set amet da pitn{" "}
             <SubjectIcon style={{ color: "#CCCDDD", paddingLeft: "10px" }} />{" "}
           </Typography>
           <Typography
